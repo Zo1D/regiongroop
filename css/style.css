@@ -5,7 +5,7 @@
     margin-bottom: -6px;
 }
 .k{
-    /*z-index: 2;*/
+    z-index: 0;
     position	: relative;
 }
 .imgk{
@@ -17,8 +17,9 @@
    
 }
 .txt1{
+    display: block;
     color: white;
-    position	: absolute;
+    position: absolute;
      margin-top: -300px;
     font-size: 2.7rem;
     font-family: Arial;
@@ -27,11 +28,14 @@
     align-content: center;
     text-align: center;
     margin-left: 25%;
+    a
     /*z-index: 1;*/
 }
 .txt2{
     color: white;
      margin-top: -200px;
     position	: absolute;
+    margin-left: 37%;
+    font-size: 45px
     
 }

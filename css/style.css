@@ -18,7 +18,7 @@
 }
 .txt1{
     color: white;
-     margin-top: -309px;
+     margin:-20% 25%;
     position	: absolute;
     margin-left: 25%;
     font-size: 50px;
@@ -27,9 +27,9 @@
 }
 .txt2{
     color: white;
-     margin-top: -190px;
+     margin:-10% 37%;
     position	: absolute;
     margin-left: 37%;
-    font-size: 44px
+    font-size: 44px;
     
 }
